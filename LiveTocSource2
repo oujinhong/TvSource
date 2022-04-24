@@ -1,0 +1,931 @@
+[
+  {
+    "list": [
+      {
+        "key": "CCTV-1综合",
+        "title": "CCTV-1 综合"
+      },
+      {
+        "key": "CCTV-2财经",
+        "title": "CCTV-2 财经"
+      },
+      {
+        "key": "CCTV-3综艺",
+        "title": "CCTV-3 综艺"
+      },
+      {
+        "key": "CCTV-4中文国际(亚)",
+        "title": "CCTV-4 中文国际(亚)"
+      },
+      {
+        "key": "CCTV-5体育",
+        "title": "CCTV-5 体育"
+      },
+      {
+        "key": "CCTV-5+体育赛事",
+        "title": "CCTV-5+ 体育赛事"
+      },
+      {
+        "key": "CCTV-6电影",
+        "title": "CCTV-6 电影"
+      },
+      {
+        "key": "CCTV-7国防军事",
+        "title": "CCTV-7 国防军事"
+      },
+      {
+        "key": "CCTV-8电视剧",
+        "title": "CCTV-8 电视剧"
+      },
+      {
+        "key": "CCTV-9纪录",
+        "title": "CCTV-9 纪录"
+      },
+      {
+        "key": "CCTV-10科教",
+        "title": "CCTV-10 科教"
+      },
+      {
+        "key": "CCTV-11戏曲",
+        "title": "CCTV-11 戏曲"
+      },
+      {
+        "key": "CCTV-12社会与法",
+        "title": "CCTV-12 社会与法"
+      },
+      {
+        "key": "CCTV-13新闻",
+        "title": "CCTV-13 新闻"
+      },
+      {
+        "key": "CCTV-14少儿",
+        "title": "CCTV-14 少儿"
+      },
+      {
+        "key": "CCTV-15音乐",
+        "title": "CCTV-15 音乐"
+      },
+      {
+        "key": "CCTV-16奥林匹克",
+        "title": "CCTV-16 奥林匹克"
+      },
+      {
+        "key": "CCTV-17农业农村",
+        "title": "CCTV-17 农业农村"
+      }
+    ],
+    "title": "CCTV"
+  },
+  {
+    "list": [
+      {
+        "title": "凤凰卫视",
+        "url": "http://117.169.120.138:8080/live/fhchinese/index.m3u8"
+      },
+      {
+        "title": "天津卫视",
+        "url": "http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8"
+      },
+      {
+        "title": "东方卫视",
+        "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8"
+      },
+      {
+        "title": "东南卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8"
+      },
+      {
+        "title": "深圳卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8"
+      },
+      {
+        "title": "龙江卫视",
+        "url": "http://39.134.116.30:8080/PLTV/88888910/224/3221225690/index.m3u8"
+      },
+      {
+        "title": "宁夏卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8"
+      },
+      {
+        "title": "新疆卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8"
+      },
+      {
+        "title": "西藏卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8"
+      },
+      {
+        "title": "香港卫视",
+        "url": "http://zhibo.hkstv.tv/livestream/mutfysrq.flv"
+      },
+      {
+        "title": "澳门卫视",
+        "url": "http://61.244.22.4/ch3/ch3.live/playelist.m3u8"
+      },
+      {
+        "title": "亚美卫视",
+        "url": "http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8"
+      },
+      {
+        "title": "湖南卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8"
+      },
+      {
+        "title": "浙江卫视",
+        "url": "http://39.134.66.110/PLTV/88888888/224/3221225880/index.m3u8"
+      },
+      {
+        "title": "江苏卫视",
+        "url": "http://39.134.66.110/PLTV/88888888/224/3221225882/index.m3u8"
+      },
+      {
+        "title": "北京卫视",
+        "url": "http://140.207.241.3:8080/live/program/live/bjwshd/4000000/mnf.m3u8"
+      },
+      {
+        "title": "重庆卫视",
+        "url": "http://39.134.66.110/PLTV/88888888/224/3221225963/index.m3u8"
+      },
+      {
+        "title": "安徽卫视",
+        "url": "http://140.207.241.3:8080/live/program/live/ahwshd/4000000/mnf.m3u8"
+      },
+      {
+        "title": "广东卫视",
+        "url": "http://39.134.66.110/PLTV/88888888/224/3221225966/index.m3u8"
+      },
+      {
+        "title": "辽宁卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8"
+      },
+      {
+        "title": "山东卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8"
+      },
+      {
+        "title": "黑龙江卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8"
+      },
+      {
+        "title": "吉林卫视",
+        "url": "http://39.134.66.110/PLTV/88888888/224/3221225981/index.m3u8"
+      },
+      {
+        "title": "河南卫视",
+        "url": "http://39.134.66.110/PLTV/88888888/224/3221225988/index.m3u8"
+      },
+      {
+        "title": "贵州卫视",
+        "url": "http://39.134.66.110/PLTV/88888888/224/3221225974/index.m3u8"
+      },
+      {
+        "title": "湖北卫视",
+        "url": "http://39.134.66.110/PLTV/88888888/224/3221225871/index.m3u8"
+      },
+      {
+        "title": "江西卫视",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8"
+      }
+    ],
+    "title": "卫视"
+  },
+  {
+    "list": [
+      {
+        "list": [
+          {
+            "title": "广东潮州综合",
+            "url": "http://dslive.grtn.cn/czzh/sd/live.m3u8"
+          },
+          {
+            "title": "深圳蛇口",
+            "url": "http://218.17.99.211:5080/hls/ttsw6ccn.m3u8"
+          }
+        ],
+        "title": "广东"
+      },
+      {
+        "list": [
+          {
+            "title": "凤凰香港",
+            "url": "http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8"
+          }
+        ],
+        "title": "港澳台"
+      },
+      {
+        "list": [
+          {
+            "title": "北京纪实",
+            "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8"
+          }
+        ],
+        "title": "北京"
+      },
+      {
+        "list": [
+          {
+            "title": "上海影视",
+            "url": "http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8"
+          },
+          {
+            "title": "上海外语",
+            "url": "http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8"
+          },
+          {
+            "title": "上海都市",
+            "url": "http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8"
+          },
+          {
+            "title": "上海法制",
+            "url": "http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8"
+          },
+          {
+            "title": "上海财经",
+            "url": "http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8"
+          },
+          {
+            "title": "上海戏曲",
+            "url": "http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8"
+          },
+          {
+            "title": "上海生活",
+            "url": "http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8"
+          },
+          {
+            "title": "上海纪实",
+            "url": "http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8"
+          }
+        ],
+        "title": "上海"
+      },
+      {
+        "list": [],
+        "title": "天津"
+      },
+      {
+        "list": [
+          {
+            "title": "重庆万州综合台",
+            "url": "http://123.146.162.24:8017/iTXwrGs/800/live.m3u8"
+          },
+          {
+            "title": "重庆万州影视台",
+            "url": "http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8"
+          },
+          {
+            "title": "重庆万盛综合台",
+            "url": "http://qxlmlive.cbg.cn:1935/app_2/ls_40.stream/playlist.m3u8"
+          }
+        ],
+        "title": "重庆"
+      },
+      {
+        "list": [],
+        "title": "河北"
+      },
+      {
+        "list": [
+          {
+            "title": "山西朔州新闻台",
+            "url": "http://stream.sxsztv.com/live4/sd/live.m3u8"
+          },
+          {
+            "title": "孝义新闻综合",
+            "url": "http://app.xygdcm.com:2036/live/stream:xy1.stream/playlist.m3u8"
+          }
+        ],
+        "title": "山西"
+      },
+      {
+        "list": [
+          {
+            "title": "陕西西安新闻台",
+            "url": "http://stream2.xiancity.cn/xatv1/sd/live.m3u8"
+          },
+          {
+            "title": "陕西西安白鸽台",
+            "url": "http://stream2.xiancity.cn/xatv2/sd/live.m3u8"
+          },
+          {
+            "title": "陕西西安影视台",
+            "url": "http://stream2.xiancity.cn/xatv4/sd/live.m3u8"
+          },
+          {
+            "title": "陕西西安丝路台",
+            "url": "http://stream2.xiancity.cn/xatv5/sd/live.m3u8"
+          },
+          {
+            "title": "西安音乐综艺",
+            "url": "http://stream2.xiancity.cn/xatv6/sd/live.m3u8"
+          }
+        ],
+        "title": "陕西"
+      },
+      {
+        "list": [
+          {
+            "title": "山东德州综合台",
+            "url": "http://video.dztv.tv:1935/live/xwzh_gq/playlist.m3u8"
+          },
+          {
+            "title": "山东德州公共台",
+            "url": "http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8"
+          },
+          {
+            "title": "东营图文频道",
+            "url": "http://stream.hhek.cn/twpd/sd/live.m3u8"
+          },
+          {
+            "title": "德州都市",
+            "url": "http://video.dztv.tv:1935/live/dspd_gq/playlist.m3u8"
+          },
+          {
+            "title": "德州图文",
+            "url": "http://kaixianlive.cbg.cn:10345/1.m3u8"
+          },
+          {
+            "title": "德州新闻",
+            "url": "http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8"
+          },
+          {
+            "title": "滨州测试频道",
+            "url": "http://stream.bzcm.net/4/sd/live.m3u8"
+          }
+        ],
+        "title": "山东"
+      },
+      {
+        "list": [
+          {
+            "title": "洛阳综合",
+            "url": "http://live1.lytv.com.cn:1935/live/LYTV1-1/playlist.m3u8"
+          },
+          {
+            "title": "周口经济生活",
+            "url": "http://tv.zkxww.com:1935/live2/mp4:ch2-500k/playlist.m3u8"
+          },
+          {
+            "title": "周口科教文化",
+            "url": "http://tv.zkxww.com:1935/live3/mp4:ch3-500k/playlist.m3u8"
+          },
+          {
+            "title": "周口图文信息",
+            "url": "http://tv.zkxww.com:1935/live4/mp4:ch4-500k/playlist.m3u8"
+          }
+        ],
+        "title": "河南"
+      },
+      {
+        "list": [],
+        "title": "辽宁"
+      },
+      {
+        "list": [
+          {
+            "title": "吉林都市",
+            "url": "http://stream1.jlntv.cn/dspd/sd/live.m3u8?_upt=4f4899d21531575987"
+          },
+          {
+            "title": "吉林生活",
+            "url": "http://stream1.jlntv.cn/shpd/sd/live.m3u8?_upt=212b47d81531576020"
+          },
+          {
+            "title": "吉林影视",
+            "url": "http://stream1.jlntv.cn/yspd/sd/live.m3u8"
+          },
+          {
+            "title": "吉林乡村",
+            "url": "http://stream1.jlntv.cn/xcpd/sd/live.m3u8"
+          },
+          {
+            "title": "吉林公共",
+            "url": "http://stream1.jlntv.cn/ggpd/sd/live.m3u8"
+          },
+          {
+            "title": "吉林7频道",
+            "url": "http://stream1.jlntv.cn/fzpd/sd/live.m3u8"
+          },
+          {
+            "title": "榆树综合",
+            "url": "http://stream.zhystv.com/yset/sd/live.m3u8"
+          },
+          {
+            "title": "榆树综艺",
+            "url": "http://stream.zhystv.com/ysyt/sd/live.m3u8"
+          }
+        ],
+        "title": "吉林"
+      },
+      {
+        "list": [],
+        "title": "黑龙江"
+      },
+      {
+        "list": [
+          {
+            "title": "江苏张家港综合",
+            "url": "http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8"
+          },
+          {
+            "title": "江苏张家港民生",
+            "url": "http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8"
+          },
+          {
+            "title": "江苏连云港综合",
+            "url": "http://live.lyg1.com/zhpd/sd/live.m3u8"
+          },
+          {
+            "title": "江苏连云港公共",
+            "url": "http://live.lyg1.com/ggpd/sd/live.m3u8"
+          },
+          {
+            "title": "江苏淮安综合",
+            "url": "http://stream.habctv.com/xwzh/sd/live.m3u8"
+          },
+          {
+            "title": "江苏淮安公共",
+            "url": "http://stream.habctv.com/hagg/sd/live.m3u8"
+          },
+          {
+            "title": "江苏淮安影视",
+            "url": "http://stream.habctv.com/ysyl/sd/live.m3u8"
+          },
+          {
+            "title": "江苏徐州综合",
+            "url": "http://stream1.huaihai.tv/xwzh/playlist.m3u8"
+          },
+          {
+            "title": "江苏徐州生活",
+            "url": "http://stream1.huaihai.tv/jjsh/playlist.m3u8"
+          },
+          {
+            "title": "江苏徐州影视",
+            "url": "http://183.207.248.15/PLTV/3/224/3221225949/index.m3u8"
+          },
+          {
+            "title": "江苏徐州公共",
+            "url": "http://stream1.huaihai.tv/ggpd/playlist.m3u8"
+          },
+          {
+            "title": "南京新闻综合",
+            "url": "http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8"
+          },
+          {
+            "title": "徐州4",
+            "url": "http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8"
+          },
+          {
+            "title": "靖江新闻",
+            "url": "http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8"
+          }
+        ],
+        "title": "江苏"
+      },
+      {
+        "list": [
+          {
+            "title": "浙江影视台",
+            "url": "http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8"
+          },
+          {
+            "title": "浙江少儿台",
+            "url": "http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8"
+          },
+          {
+            "title": "浙江教育台",
+            "url": "http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8"
+          },
+          {
+            "title": "浙江钱江台",
+            "url": "http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8"
+          },
+          {
+            "title": "浙江休闲台",
+            "url": "http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8"
+          },
+          {
+            "title": "浙江经济台",
+            "url": "http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8"
+          },
+          {
+            "title": "浙江新闻台",
+            "url": "http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8"
+          },
+          {
+            "title": "浙江留学世界台",
+            "url": "http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8"
+          },
+          {
+            "title": "浙江舟山综合台",
+            "url": "http://live.wifizs.cn/xwzh/sd/live.m3u8"
+          },
+          {
+            "title": "浙江舟山生活台",
+            "url": "http://live.wifizs.cn/ggsh/sd/live.m3u8"
+          },
+          {
+            "title": "浙江绍兴综合台",
+            "url": "http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8"
+          },
+          {
+            "title": "浙江绍兴影视台",
+            "url": "http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
+          },
+          {
+            "title": "浙江绍兴公共台",
+            "url": "http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8"
+          },
+          {
+            "title": "浙江6套",
+            "url": "http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702"
+          },
+          {
+            "title": "浙江公共",
+            "url": "http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743"
+          },
+          {
+            "title": "浙江国际",
+            "url": "http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884"
+          },
+          {
+            "title": "浙江经视",
+            "url": "http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=3bc164885721feecc386b066a39b8567&t=1577153471"
+          },
+          {
+            "title": "浙江影视娱乐",
+            "url": "http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8?k=79b277c166767a9e072b9629b446d4e9&t=1577153637"
+          },
+          {
+            "title": "杭州1",
+            "url": "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8"
+          },
+          {
+            "title": "杭州2",
+            "url": "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8"
+          },
+          {
+            "title": "杭州3",
+            "url": "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8"
+          },
+          {
+            "title": "杭州4",
+            "url": "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8"
+          },
+          {
+            "title": "杭州5",
+            "url": "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8"
+          },
+          {
+            "title": "杭州影视",
+            "url": "http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_devid=24&online=1598530962"
+          },
+          {
+            "title": "舟山新闻综合",
+            "url": "http://stream.wifizs.cn/xwzh/sd/live.m3u8"
+          },
+          {
+            "title": "舟山群岛旅游",
+            "url": "http://live.wifizs.cn/qdly/sd/live.m3u8"
+          },
+          {
+            "title": "余姚新闻综合",
+            "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8"
+          },
+          {
+            "title": "余姚姚江文化",
+            "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8"
+          },
+          {
+            "title": "上虞新闻综合",
+            "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"
+          },
+          {
+            "title": "上虞经济文化",
+            "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8"
+          },
+          {
+            "title": "上虞新商都",
+            "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8"
+          },
+          {
+            "title": "嵊州新闻综合",
+            "url": "http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8"
+          }
+        ],
+        "title": "浙江"
+      },
+      {
+        "list": [
+          {
+            "title": "安徽郎溪综合台",
+            "url": "http://117.70.93.210:1935/live/xinwen/playlist.m3u8"
+          },
+          {
+            "title": "安徽铜陵综合台",
+            "url": "http://dstpush1.retalltech.com/app/stream1.m3u8"
+          },
+          {
+            "title": "安徽铜陵公共台",
+            "url": "http://dstpush1.retalltech.com/app/stream2.m3u8"
+          },
+          {
+            "title": "安徽东至综合台",
+            "url": "http://223.247.33.124:1935/live/zonghe/playlist.m3u8"
+          },
+          {
+            "title": "安徽东至影视台",
+            "url": "http://223.247.33.124:1935/live/yingshi/playlist.m3u8"
+          }
+        ],
+        "title": "安徽"
+      },
+      {
+        "list": [],
+        "title": "江西"
+      },
+      {
+        "list": [
+          {
+            "title": "福建福州影视台",
+            "url": "http://live.zohi.tv/video/s10001-yspd-2/index.m3u8"
+          },
+          {
+            "title": "福建福州综合",
+            "url": "http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8"
+          },
+          {
+            "title": "福建福州生活",
+            "url": "http://live.zohi.tv/video/s10001-shpd-3/index.m3u8"
+          },
+          {
+            "title": "福建福州少儿",
+            "url": "http://live.zohi.tv/video/s10001-sepd-4/index.m3u8"
+          },
+          {
+            "title": "晋江电视",
+            "url": "http://stream.jinjiang.tv/1/sd/live.m3u8"
+          }
+        ],
+        "title": "福建"
+      },
+      {
+        "list": [],
+        "title": "湖北"
+      },
+      {
+        "list": [
+          {
+            "title": "湖南娄底综合台",
+            "url": "http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8"
+          },
+          {
+            "title": "湖南湘潭综合台",
+            "url": "http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8"
+          },
+          {
+            "title": "湖南张家界公共",
+            "url": "http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8"
+          },
+          {
+            "title": "湖南教育",
+            "url": "http://pull.hnedutv.com/live/edutv.m3u8"
+          }
+        ],
+        "title": "湖南"
+      },
+      {
+        "list": [
+          {
+            "title": "广元公共",
+            "url": "http://3g.dzsm.com/streamer/gy04.m3u8"
+          },
+          {
+            "title": "广元影视",
+            "url": "http://3g.dzsm.com/streamer/gy02.m3u8"
+          },
+          {
+            "title": "广元综合",
+            "url": "http://3g.dzsm.com/streamer/gy03.m3u8"
+          }
+        ],
+        "title": "四川"
+      },
+      {
+        "list": [],
+        "title": "贵州"
+      },
+      {
+        "list": [
+          {
+            "title": "云南西双版纳一",
+            "url": "http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8"
+          },
+          {
+            "title": "云南西双版纳二",
+            "url": "http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8"
+          },
+          {
+            "title": "云南迪庆综合台",
+            "url": "http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8"
+          },
+          {
+            "title": "云南马关电视台",
+            "url": "http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel12/playlist.m3u8"
+          },
+          {
+            "title": "云南麻栗坡电视",
+            "url": "http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8"
+          }
+        ],
+        "title": "云南"
+      },
+      {
+        "list": [
+          {
+            "title": "东方影视",
+            "url": "http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8"
+          }
+        ],
+        "title": "海南"
+      },
+      {
+        "list": [],
+        "title": "甘肃"
+      },
+      {
+        "list": [
+          {
+            "title": "青海综合频道",
+            "url": "http://lmt.scqstv.com/live1/live1.m3u8"
+          }
+        ],
+        "title": "青海"
+      },
+      {
+        "list": [
+          {
+            "title": "赤峰综合频道",
+            "url": "http://vfile.cfrtv.cn/2017/1484/6248/0267/148462480267.ssm/148462480267.m3u8"
+          }
+        ],
+        "title": "内蒙古自治区"
+      },
+      {
+        "list": [],
+        "title": "新疆维吾尔自治区"
+      },
+      {
+        "list": [],
+        "title": "西藏自治区"
+      },
+      {
+        "list": [],
+        "title": "广西壮族自治区"
+      },
+      {
+        "list": [],
+        "title": "宁夏回族自治区"
+      },
+      {
+        "list": [
+          {
+            "title": "耀才财经台",
+            "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8"
+          },
+          {
+            "title": "数码时代",
+            "url": "http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
+          },
+          {
+            "title": "西青新闻综合",
+            "url": "http://221.238.209.44:81/hls/live1.m3u8"
+          },
+          {
+            "title": "迪庆藏语",
+            "url": "http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8"
+          },
+          {
+            "title": "萧山新闻综合",
+            "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8"
+          },
+          {
+            "title": "萧山生活频道",
+            "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8"
+          },
+          {
+            "title": "新昌新闻综合",
+            "url": "http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8"
+          },
+          {
+            "title": "新昌休闲影视",
+            "url": "http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8"
+          },
+          {
+            "title": "中牟综合",
+            "url": "http://218.206.193.210:9850/playServer/acquirePlayService?type=live&resourceId=1000000000000001&protocol=hls0&drmType=none&deviceGroup=TV(STB)&op=sovp&playType=catchup&redirect=m3u8&nsukey=&kdsplayer=media"
+          },
+          {
+            "title": "西藏藏语",
+            "url": "http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8"
+          },
+          {
+            "title": "北碚综合频道",
+            "url": "http://222.178.181.121:12034/beibei01.m3u8"
+          },
+          {
+            "title": "海盐新闻频道",
+            "url": "http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8"
+          },
+          {
+            "title": "深圳蛇口",
+            "url": "http://218.17.99.211:82/hls/d4encs75.m3u8"
+          },
+          {
+            "title": "黔西南综合",
+            "url": "http://live.qxndt.com/channel2/sd/live.m3u8"
+          },
+          {
+            "title": "青田电视台",
+            "url": "http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8"
+          },
+          {
+            "title": "直播中国",
+            "url": "http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8"
+          },
+          {
+            "title": "中国交通",
+            "url": "http://tv.lanjingfm.com/cctbn/hainan.m3u8"
+          },
+          {
+            "title": "金牌综艺",
+            "url": "http://39.134.66.110/PLTV/88888888/224/3221225525/index.m3u8"
+          },
+          {
+            "title": "武搏世界",
+            "url": "http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8"
+          },
+          {
+            "title": "东北热剧",
+            "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221226202/index.m3u8"
+          },
+          {
+            "title": "精品大剧",
+            "url": "http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8"
+          },
+          {
+            "title": "超级电影",
+            "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8"
+          },
+          {
+            "title": "超级电视剧",
+            "url": "http://39.134.66.110/PLTV/88888888/224/3221225637/index.m3u8"
+          },
+          {
+            "title": "超级综艺",
+            "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225620/index.m3u8"
+          }
+        ],
+        "title": ""
+      }
+    ],
+    "title": "地方台"
+  },
+  {
+    "list": [
+      {
+        "title": "榆树综艺",
+        "url": "http://stream.zhystv.com/ysyt/sd/live.m3u8"
+      },
+      {
+        "title": "西安音乐综艺",
+        "url": "http://stream2.xiancity.cn/xatv6/sd/live.m3u8"
+      },
+      {
+        "title": "CCTV-3综艺",
+        "url": "http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8"
+      },
+      {
+        "title": "金牌综艺",
+        "url": "http://39.134.66.110/PLTV/88888888/224/3221225525/index.m3u8"
+      },
+      {
+        "title": "超级综艺",
+        "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225620/index.m3u8"
+      }
+    ],
+    "title": "综艺"
+  },
+  {
+    "title": "体育"
+  },
+  {
+    "list": [
+      {
+        "title": "浙江少儿台",
+        "url": "http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8"
+      }
+    ],
+    "title": "少儿"
+  }
+]
