@@ -2,79 +2,79 @@
   {
     "list": [
       {
-        "key": "CCTV-1",
+        "key": "CCTV-1综合",
         "title": "CCTV-1 综合"
       },
       {
-        "key": "CCTV-2",
+        "key": "CCTV-2财经",
         "title": "CCTV-2 财经"
       },
       {
-        "key": "CCTV-3",
+        "key": "CCTV-3综艺",
         "title": "CCTV-3 综艺"
       },
       {
-        "key": "CCTV-4",
+        "key": "CCTV-4中文国际(亚)",
         "title": "CCTV-4 中文国际(亚)"
       },
       {
-        "key": "CCTV-5",
+        "key": "CCTV-5体育",
         "title": "CCTV-5 体育"
       },
       {
-        "key": "CCTV-5+",
+        "key": "CCTV-5+体育赛事",
         "title": "CCTV-5+ 体育赛事"
       },
       {
-        "key": "CCTV-6",
+        "key": "CCTV-6电影",
         "title": "CCTV-6 电影"
       },
       {
-        "key": "CCTV-7",
+        "key": "CCTV-7国防军事",
         "title": "CCTV-7 国防军事"
       },
       {
-        "key": "CCTV-8",
+        "key": "CCTV-8电视剧",
         "title": "CCTV-8 电视剧"
       },
       {
-        "key": "CCTV-9",
+        "key": "CCTV-9纪录",
         "title": "CCTV-9 纪录"
       },
       {
-        "key": "CCTV-10",
+        "key": "CCTV-10科教",
         "title": "CCTV-10 科教"
       },
       {
-        "key": "CCTV-11",
+        "key": "CCTV-11戏曲",
         "title": "CCTV-11 戏曲"
       },
       {
-        "key": "CCTV-12",
+        "key": "CCTV-12社会与法",
         "title": "CCTV-12 社会与法"
       },
       {
-        "key": "CCTV-13",
+        "key": "CCTV-13新闻",
         "title": "CCTV-13 新闻"
       },
       {
-        "key": "CCTV-14",
+        "key": "CCTV-14少儿",
         "title": "CCTV-14 少儿"
       },
       {
-        "key": "CCTV-15",
+        "key": "CCTV-15音乐",
         "title": "CCTV-15 音乐"
       },
       {
-        "key": "CCTV-16",
+        "key": "CCTV-16奥林匹克",
         "title": "CCTV-16 奥林匹克"
       },
       {
-        "key": "CCTV-17",
+        "key": "CCTV-17农业农村",
         "title": "CCTV-17 农业农村"
       }
     ],
-    "title": "CCTV"
+    "title": "CCTVvvvvvv cctv3外也可以匹配"
   },
   {
     "list": [
