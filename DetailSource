@@ -8,7 +8,7 @@
         "id":0,
         "intro":"(function () {\n    //简介\n    let result = null;\n    let infos = document.querySelector(\".qy-search-result-item\").querySelectorAll(\".qy-search-result-info\");\n    infos.forEach(item =&gt; {\n        //简介\n        if ((\"\" + item.innerText).startsWith(\"简介\")) {\n            result = item.querySelector(\".info-des\").title\n        }\n    });\n    return result\n})();",
         "sourceTitle":"爱奇艺",
-        "sourceUrl":"",
+        "sourceUrl":"https://so.iqiyi.com/so/q_",
         "title":"(function () {\n    //集数点击展开\n    let clickExpand = document.querySelector(\".qy-search-result-item .album-list\");\n    if (clickExpand != null) {\n        clickExpand.children.forEach(function (item) {\n            if (item.innerText == \"...\") {\n                item.children[0].click();\n            }\n        });\n    }\n\n    //获取title\n    //搜索到的第一条结果\n    let searchFirst = document.querySelector(\".qy-search-result-item\");\n    let title = searchFirst.querySelector(\".result-right .qy-search-result-tit a\");\n    return title.textContent\n    // console.log(title.innerText);\n})();",
         "totalAlbumCount":"(function () {\n    //更新集数\n    let result = null;\n    let last = document.querySelector(\".qy-search-result-item\").querySelector(\".qy-mod-label\");\n if (last != null) {\n        let lastStr = last.textContent;\n        let pattern = /\\d+/g;\n        let ss = lastStr.match(pattern);\n        result = ss[ss.length - 1];\n    }\n    return result\n})();"
     }
