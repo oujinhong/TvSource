@@ -1,0 +1,21 @@
+{
+    "apiUrl": "https://raw.iqiq.io/liu673cn/box/main/m.json", 
+    "autoPlayKey": 0, 
+    "liveChannels": [
+        {
+            "key": 1, 
+            "name": "CCTV1", 
+            "sourceUrl": "sourceUrl1"
+        }, 
+        {
+            "key": 2, 
+            "name": "CCTV2", 
+            "sourceUrl": "sourceUrl2"
+        }, 
+        {
+            "key": 3, 
+            "name": "CCTV3", 
+            "sourceUrl": "sourceUrl3"
+        }
+    ]
+}
