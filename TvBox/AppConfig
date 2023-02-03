@@ -17,5 +17,6 @@
             "name": "CCTV4", 
             "sourceUrl": "sourceUrl3"
         }
-    ]
+    ], 
+    "versionCode": 9
 }
